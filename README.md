@@ -5,8 +5,8 @@ This is a simple Task Tracking app made with **ReactJS**
 
 ## Features
 
->Create/Read/Update/Delete Tasks
->set reminders based on  on importing tasks which needs to be highlighted over others
+- Create/Read/Update/Delete Tasks
+- Set reminders based on  on importing tasks which needs to be highlighted over others
 
 ### Tech Used
 
